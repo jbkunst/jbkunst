@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/jbkunst/git-badges)](https://jbkunst.com)
+[![Repos Badge](https://badges.pufler.dev/repos/jbkunst)](https://jbkunst.com)
 [![Years Badge](https://badges.pufler.dev/years/jbkunst)](https://jbkunst.com)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jbkunst&hide_border=true)
