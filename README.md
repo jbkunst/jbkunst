@@ -6,7 +6,7 @@ Data scientist and R developer based in Chile, focused on **credit risk, statist
 
 - **[highcharter](https://github.com/jbkunst/highcharter)** — An R interface to Highcharts for interactive charts, maps, stock charts, and custom visualizations.
 - **[risk3r](https://github.com/jbkunst/risk3r)** — Credit-risk modelling helpers that complement workflows built with the R package [`scorecard`](https://github.com/ShichenXie/scorecard). Several utilities have been used internally by model-development teams I have worked with.
-- **[shiny-apps-educational](https://github.com/jbkunst/shiny-apps-educational)** — Interactive applications created through my experience teaching R programming, statistics, machine learning, and Shiny.
+- **[Visual Data Lab](https://github.com/jbkunst/visual-data-lab)** — Interactive experiments in data, statistics, and machine learning, designed to explore models and algorithms through visualization.
 
 ## More packages and experiments
 
